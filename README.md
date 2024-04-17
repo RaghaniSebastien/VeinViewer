@@ -19,7 +19,6 @@ The setup consist of a raspberry pi 5, a camera module V3 NoIR, some IR LEDs, an
          <img src="https://github.com/RaghaniSebastien/VeinViewer/assets/73033350/f28667bb-9b79-44a3-82c8-c18c8dee6ac0" width="450";/>
 </div>
 
-
 <br>
 <br>
 <br>
@@ -30,6 +29,9 @@ Now we need some image processing on each frame to extract those veins we crave 
          <img src="https://github.com/RaghaniSebastien/VeinViewer/assets/73033350/29fbb9f6-7738-429e-83ad-bfc55abb212f" width="650";/>
 </div>
 
+<br>
+<br>
+<br>
 
 Finally, we need to repeat the image processing steps on each frame of the video...
 (Work in progress)
